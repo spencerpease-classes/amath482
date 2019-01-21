@@ -4,16 +4,16 @@
 > Winter quarter, 2019  
 > Taught by Professor J. Nathan Kutz  
 
-_[Course website][1]_
+_[Course website]_
 
 ## Assignments
 
- * Homework 1: An Ultrasound Problem ([link][2])
+ * Homework 1: An Ultrasound Problem ([link][1])
  * Homework 2: Gabor Transforms
  * Homework 3: PCA
  * Homework 4: Eigenfaces & Music Genre Identification
  * Homework 5: Background Subtraction in Video Streams
 
 
-[1]: https://faculty.washington.edu/kutz/KutzBook/KutzBook.html
-[2]: hw1/
+[Course website]: https://faculty.washington.edu/kutz/KutzBook/KutzBook.html
+[1]: hw1/
