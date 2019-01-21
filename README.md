@@ -8,7 +8,7 @@ _[Course website][1]_
 
 ## Assignments
 
- * Homework 1: An Ultrasound Problem
+ * Homework 1: An Ultrasound Problem ([link][2])
  * Homework 2: Gabor Transforms
  * Homework 3: PCA
  * Homework 4: Eigenfaces & Music Genre Identification
@@ -16,3 +16,4 @@ _[Course website][1]_
 
 
 [1]: https://faculty.washington.edu/kutz/KutzBook/KutzBook.html
+[2]: hw1/
